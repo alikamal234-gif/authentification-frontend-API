@@ -7,6 +7,8 @@ function Profile() {
     const [loading, setLoad] = useState(true)
     const [error, setError] = useState(null)
 
+
+    
     useEffect(function () {
         function verification() {
             const token_exist = false

@@ -10,6 +10,8 @@ function Register() {
     const [loading , setLoad] = useState(false)
     async function Register(e) {
         
+
+        
         e.preventDefault()
         setLoad(true)
         try {

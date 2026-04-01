@@ -7,6 +7,8 @@ Cette application consomme une API Laravel sécurisée (Sanctum/JWT) et impléme
 - Authentification sociale (OAuth2 : Google + GitHub)
 - Gestion complète du profil utilisateur
 
+
+
 ---
 
 ## 🚀 Stack Technique
